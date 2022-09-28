@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EYREQXQB
 
 [Document2]
-DocumentPath=..\..\..\..\..\Leo\Documents\WeChat Files\wxid_6xm77jlwva9x21\FileStorage\File\2022-05\Class.PcbLib
+DocumentPath=Class.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -78,10 +78,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JCIAUIJK
+DocumentUniqueId=
 
 [Document3]
-DocumentPath=Course Design.SCHLIB
+DocumentPath=Course Design.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -95,10 +95,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SRVHQTPS
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=Course Design_1.SCHLIB
+DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -112,7 +112,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HPRZDFQR
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
