@@ -78,7 +78,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JCIAUIJK
 
 [Document3]
 DocumentPath=Course Design.PcbDoc
@@ -95,7 +95,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IPCPCRWS
 
 [Document4]
 DocumentPath=Schlib1.SchLib
@@ -113,6 +113,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Course Design\Design Rule Check - Course Design.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Course Design\Net Status - Course Design.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
